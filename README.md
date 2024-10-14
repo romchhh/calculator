@@ -13,8 +13,11 @@ To build this project, you can use CMake with Ninja:
 
 1. Navigate to the build directory:
    ```bash
-   cd build```
+   cd build
+   ```bash
 2. Run CMake:
-```cmake -G Ninja ..```
+   ```bash
+   cmake -G Ninja ..```bash
 3. Build the project:
-```ninja ..```
+   ```bash
+   ninja ..```bash
